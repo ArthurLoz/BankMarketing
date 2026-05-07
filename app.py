@@ -208,7 +208,7 @@ with st.sidebar:
         label_visibility="collapsed",
     )
     st.markdown("---")
-    st.caption("Especialización Python for Analytics\nMSc. Carlos Carrillo Villavicencio")
+
 
 # ──────────────────────────────────────────────
 # SESSION STATE — guardar el dataframe cargado
