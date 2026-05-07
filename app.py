@@ -256,7 +256,7 @@ if menu == "🏠 Home":
     with col2:
         st.subheader("👤 Autor")
         st.info("""
-        **Nombre:** [Tu nombre aquí]
+        **Nombre:** Jimmy Arthur Lopez Ore
 
         **Curso:** Especialización en Python for Analytics
 
