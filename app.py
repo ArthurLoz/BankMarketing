@@ -225,7 +225,7 @@ analyzer  = DataAnalyzer(df_loaded) if df_loaded is not None else None
 # ══════════════════════════════════════════════
 if menu == "🏠 Home":
     st.title("🏦 Análisis Exploratorio de Datos — BankMarketing")
-    st.markdown("### Caso de Estudio N°1 · Especialización Python for Analytics")
+    
     st.markdown("---")
 
     col1, col2 = st.columns([2, 1])
